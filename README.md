@@ -3,8 +3,7 @@
 Este programa en Python convierte un número entero en su representación literal en español.
 
 # Autor:
-José Luis Flores Tito
-Analista de Ciberseguridad
+José Luis Flores Tito - Analista de Ciberseguridad
 
 ## Descripción
 
